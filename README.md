@@ -1,7 +1,7 @@
 # PwxCircleSolver
 
-How to use
-use circle1.py and circle2.py to create the combinations you want
+How to use:
+Run circle1.py and circle2.py to create the combinations you want
 
 You will need to change the values of x,y and z to match the circles information.
 
