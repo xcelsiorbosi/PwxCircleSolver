@@ -93,22 +93,3 @@ print "There is", len(valid_combos), "combinations"
 circle2 = open('circle2.pickle', 'wb')
 pickle.dump(valid_combos, circle2)
 
-
-# # #FOR 3.6
-# # pickle_out = open('circle2.pickle', 'wb') 
-# # pickle.dump(valid_combos, pickle)
-# # pickle_out.close()
-# # #to bring the pickle back in
-# # pickle_in = open('circle2.pickle', 'rb')
-# # valid_combos = pickle.load(pickle_in)
-
-# #print (valid_combos)
-
-
-# print 'i Finished'
-# # a = a+b
-# # b = a%b 
-# # a - b = ans
-
-
-
